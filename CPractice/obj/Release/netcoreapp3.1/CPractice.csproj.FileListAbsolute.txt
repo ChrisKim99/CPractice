@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.exe
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.deps.json
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.dll
+C:\Users\Lenovo\source\repos\CPractice\CPractice\bin\Release\netcoreapp3.1\CPractice.pdb
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.dll
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.pdb
+C:\Users\Lenovo\source\repos\CPractice\CPractice\obj\Release\netcoreapp3.1\CPractice.genruntimeconfig.cache
