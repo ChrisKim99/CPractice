@@ -1042,11 +1042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\CPractice\\CPractice\\CPractice.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj",
       "projectName": "CPractice",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\CPractice\\CPractice\\CPractice.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\CPractice\\CPractice\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\ChrisKim99\\CPractice\\CPractice\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

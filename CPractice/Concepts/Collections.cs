@@ -41,17 +41,18 @@ namespace CPractice
 
         static public void list()
         {
-            //List<string> list = new List<string> { };
-            //list.Add("a");
-            //list.Add("b");
-            //list.Add("c");
+            List<string> list = new List<string> { };
+            list.Add("a");
+            list.Add("b");
+            list.Add("c");
 
-            //Console.WriteLine(list.IndexOf("b"));
-            //list.RemoveRange(0, 2);
-            //foreach(string v in list)
-            //{
-            //    Console.WriteLine(v);
-            //}
+            
+            Console.WriteLine(list.IndexOf("b"));
+            list.RemoveRange(0, 2);
+            foreach (string v in list)
+            {
+                Console.WriteLine(v);
+            }
         }
 
         static public void hash()

@@ -5,12 +5,12 @@ using System.Threading;
 
 namespace CPractice
 {
-    class Practice
+    class Indexer
     {
         private int[] intArr = new int[5]; //define number of index
         public int this[int index]  //indexer
         {
-            // get only works when there's a loop running
+            // "get" only works when there's a loop running
             get
             {
                 if (index < 0 || index >= intArr.Length)

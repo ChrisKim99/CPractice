@@ -7,6 +7,10 @@ using System.Collections;
 using System.Linq;
 using CPractice.Concepts;
 using System.Threading.Tasks.Sources;
+using static CPractice.Exceptions;
+using System.ComponentModel;
+using System.Security.Cryptography.X509Certificates;
+using static CPractice.Concepts.Program;
 
 namespace CPractice
 {
@@ -20,18 +24,18 @@ namespace CPractice
             //Factor(Value);
             //List<int> list = new List<int>() { 1, 2, 3, 4, 5 };
             //Average(list, 2, 4);
-            //Practice test = new Practice();
+            //Indexer test = new Indexer();
             //test[0] = 1;
             //test[1] = 100;
             //test[3] = 300;
             //test[2] = 200;
             //test[4] = 400;
 
-            // 
-            //for (int i=0; i <= 2; i++)
+
+            //for (int i = 0; i <= 5; i++)
             //{
-            //    //_ = test[i];
-            //    //Console.WriteLine(test[i]);
+            //    _ = test[i];
+            //    Console.WriteLine(test[i]);
             //}
 
             //if (queue("Chris"))
@@ -39,6 +43,7 @@ namespace CPractice
             //    Console.WriteLine("Valid");
             //}
 
+            //list();
             //sortlist();
 
             //PartialClass Car = new PartialClass();
@@ -48,36 +53,42 @@ namespace CPractice
             //Plane.Aviate(5);
             //Plane.Land(2);
 
-            GenericCollection generic = new GenericCollection();
-            generic.add_student(45.2, 3);
-            generic.add_student(64.2, 2);
-            
-            List<Student> list = new List<Student> { };
-            list.AddRange(generic.students);
-            
-            generic.students.Clear();
+            //GenericCollection generic = new GenericCollection();
+            //generic.add_student(45.2, 3);
+            //generic.add_student(64.2, 2);
 
-            generic.add_student(37.1, 4);
-            generic.add_student(72.4, 1);
+            //List<Student> list = new List<Student> { };
+            //list.AddRange(generic.students);
 
-            generic.students.Insert(2, new Student(){score = 85.2, grade = 5});
+            //generic.students.Clear();
 
-            generic.students.RemoveAt(0);
+            //generic.add_student(37.1, 4);
+            //generic.add_student(72.4, 1);
 
-            list.AddRange(generic.students);
+            //generic.students.Insert(2, new Student() { score =   85.2, grade = 5 });
 
-            list.ForEach(student => Console.WriteLine("student grade is {0} student score is {1}", student.grade, student.score));
+            //generic.students.RemoveAt(0);
 
-           
+            //list.AddRange(generic.students);
 
-            int[] intArr = new int[2];
-            intArr[0] = 0;
-            intArr[1] = 1;
-            
-            foreach (int a in intArr)
-            {
-                Console.WriteLine(a);
-            }
+            //list.ForEach(student => Console.WriteLine("student grade is {0} student score is {1}", student.grade, student.score));
+
+
+
+            //t();
+            //file();
+            //nested();
+            //student();
+            //sequence();
+            //enter();
+
+            //test_serializable test = new test_serializable();
+            //test.serializable();
+
+
+
+            //eve();
+
         }
 
     }

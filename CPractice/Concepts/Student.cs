@@ -8,5 +8,6 @@ namespace CPractice.Concepts
     {
         public double score;
         public int grade;
+        public string StudentName;
     }
 }
