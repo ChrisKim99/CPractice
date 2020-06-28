@@ -15,7 +15,7 @@ namespace CPractice.Concepts
 
         public void Brake (int value)
         {
-            speed -= value*value;
+            speed -= value;
             Console.WriteLine("The speed is at {0}", speed);
         }
     }
