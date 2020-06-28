@@ -9,13 +9,13 @@ namespace CPractice.Concepts
         private int speed;
         public void Accelerate(int value)
         {
-            speed *= value;
+            speed += value;
             Console.WriteLine("The speed is at {0}", speed);
         }
 
         public void Brake (int value)
         {
-            speed -= value;
+            speed -= value*value;
             Console.WriteLine("The speed is at {0}", speed);
         }
     }

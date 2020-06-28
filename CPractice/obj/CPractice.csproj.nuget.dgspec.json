@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj": {}
+    "C:\\Users\\Lenovo\\Source\\Repos\\CPractice\\CPractice\\CPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj": {
+    "C:\\Users\\Lenovo\\Source\\Repos\\CPractice\\CPractice\\CPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Source\\Repos\\CPractice\\CPractice\\CPractice.csproj",
         "projectName": "CPractice",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\ChrisKim99\\CPractice\\CPractice\\CPractice.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Source\\Repos\\CPractice\\CPractice\\CPractice.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\ChrisKim99\\CPractice\\CPractice\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Source\\Repos\\CPractice\\CPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
